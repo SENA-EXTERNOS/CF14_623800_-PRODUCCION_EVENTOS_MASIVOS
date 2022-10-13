@@ -2,13 +2,24 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 75%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 10%
+    right: 10%
+  &-3
+    //animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 15%
+    right: 20%
+  &-4
+    animation: rotate 10s linear infinite
+    position: absolute
+    top: 13%
+    right: 27%
+    width: 65%
 
 
 @keyframes float1
@@ -17,3 +28,121 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes rotate 
+  0%
+    transform: rotate(0)
+
+  100%
+    transform: rotate(360deg)
+
+//CSS Adicionales
+
+.bloque-texto-tema1
+  display: flex;
+  flex-direction: column
+  position: relative
+  padding-bottom: 50px
+  &:before
+    height: 50%
+    content: ''
+    display: block
+    position: absolute
+    top: 0
+    left: 0
+    right: 55%
+    bottom: 50px
+  &__comillas
+    position: initial
+    
+    i
+      position: absolute
+      font-size: 2.5em
+      color: $color-acento-contenido
+      &:first-of-type
+        margin-right: 15px
+        top: 0
+        left: 40px
+        transform: translate(-50%,-50%)
+      &:last-of-type
+        margin-left: 15px
+        vertical-align: text-top
+        top: calc(100% - 50px)
+        right: 10px
+        margin: 0
+        transform: translate(-50%,-50%)
+  
+  &__texto
+    position: relative
+    margin-left: -4%
+    *
+      display: inline
+
+  &__autor
+    text-align: center
+    position: relative
+
+  &__avatar
+    position: relative
+    height: 50px
+    &__img
+      background-color: $white
+      position: absolute
+      top: 0
+      left: 50%
+      transform: translateX(-50%)
+      width: 100px
+      border-radius: 50%
+      overflow: hidden
+      border: 5px solid $white
+      box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.3)
+
+  &.color-primario
+    &:before
+      background-color: #CEC6E8
+  &.color-secundario
+    &:before
+      background-color: #FFEDD2
+  &.color-acento-contenido
+    &:before
+      background-color: $color-acento-contenido
+  &.color-acento-botones
+    &:before
+      background-color: $color-acento-botones
+
+.bgr-tarjeta-1:before
+    background: #8C6DF2
+    
+.bgr-tarjeta-1
+    background-color: #E2DAFC
+
+.bgr-tarjeta-2:before
+    background: #FDB74D
+    
+.bgr-tarjeta-2
+    background: #FFF6DB
+
+.bgr-tarjeta-3:before
+    background: #E2DAFC
+    
+.bgr-tarjeta-3
+    background-color: #E2DAFC
+
+.bgr-tarjeta-4
+    background-color: #8C6DF2
+
+.bloque-texto-f
+  &:before
+  &__comillas
+    i
+      color: #FDB74D
+
+.width-image-tema3
+  width: 50%
+
+.color-text-3 
+  color: #fff
+      
+  
+
+
