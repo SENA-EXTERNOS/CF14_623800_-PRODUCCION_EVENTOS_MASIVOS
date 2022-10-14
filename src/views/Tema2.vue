@@ -295,8 +295,7 @@
     .row
       .col-lg-1
       .col-lg-10
-        p.mt-5 Para interiorizar más acerca de las funciones de las brigadas se puede consultar a continuación el documento Cartilla de brigadista (Positiva compañía de seguros, 2019):    
-
+        
         .tarjeta.color-primario.p-3.mb-5.mt-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
