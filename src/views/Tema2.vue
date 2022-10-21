@@ -71,7 +71,7 @@
                 img(src='@/assets/curso/temas/tema2/img5.png', alt='').img125
             .col-lg
               
-              p #[b Desarrollo de los niveles de intervención:] en este aspecto se definen y se consiguen los recursos necesarios para atender las posibles emergencias, así como se establecen medidas de control en la fuente, relacionadas con infraestructura, condiciones locativas (pisos, techos, paredes), control en el medio, señalización de áreas y demarcación de zonas.  Con estos mecanismos de intervención buscamos mitigar los efectos negativos a la salud de los participantes, integridad de los bienes y medio ambiente.detallado para ingresar a un evento en donde los asistentes deberán pasar por este punto y registrarse previamente para recibir más información del evento o algunos elementos que requiere para su participación en el evento.
+              p #[b Desarrollo de los niveles de intervención:] en este aspecto se definen y se consiguen los recursos necesarios para atender las posibles emergencias, así como se establecen medidas de control en la fuente, relacionadas con infraestructura, condiciones locativas (pisos, techos, paredes), control en el medio, señalización de áreas y demarcación de zonas.  Con estos mecanismos de intervención buscamos mitigar los efectos negativos a la salud de los participantes, integridad de los bienes y medio ambiente.
 
     separador
 
@@ -364,7 +364,7 @@
           li 
             .lista-ol--cuadro__vineta
               span f
-            p.mb-0 #[b Anexo f.] plan integración pública
+            p.mb-0 #[b Anexo f.] plan integración del lugar
           
           li 
             .lista-ol--cuadro__vineta

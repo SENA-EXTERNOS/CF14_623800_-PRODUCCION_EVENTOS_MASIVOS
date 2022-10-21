@@ -35,7 +35,7 @@
         p.text-center Botiquines portátiles
 
       .tarjeta.color-primario.p-3(x="56%" y="74%" numero="3")       
-        p.text-center Tablas tipo fell
+        p.text-center Tablas tipo #[i fell]
 
       .tarjeta.color-primario.p-3(x="67%" y="85%" numero="4")       
         p.text-center Inmovilizadores de miembros superiores e inferiores
