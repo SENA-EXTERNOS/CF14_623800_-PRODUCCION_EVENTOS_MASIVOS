@@ -10,14 +10,14 @@
             img(src="@/assets/template/completar.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Completar la frase
+          h2 Arrastrar y Soltar
         p.mb-4 #[b Objetivo] Esta actividad fortalecerá la conceptualización relacionada con la estructuración de planes de emergencia y contingencia.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Completar
+              p.fw-bold.mb-0 Arrastrar y Soltar
             .col-auto
-              a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/actividades/index.html')" target="_blank")
                 span Realizar
                 i.fas.fa-puzzle-piece
                 
