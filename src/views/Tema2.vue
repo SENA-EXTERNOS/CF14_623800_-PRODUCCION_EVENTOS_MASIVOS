@@ -306,7 +306,7 @@
                   h3.mb-1 Anexo 2
                   p.text-small Ficha técnica plan de emergencias y contingencias
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Ficha_tecnica.Docx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Ficha_tecnica.docx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -320,7 +320,7 @@
                   h3.mb-1 Anexo 3
                   p.text-small Identificación de análisis de vulnerabilidad y valoración del riesgo
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_ Identificacion.xls')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_ Identificacion.xlsx')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
