@@ -17,23 +17,20 @@
       .col-lg-7.mb-5.mb-lg-0
         .bloque-texto-tema1.color-secundario.p-4
           .bloque-texto-tema1__texto
-            p En los modelos de gestión del riesgo se establecen las fases de manera organizada para hacer una adecuada intervención de las amenazas ya sean de origen natural, socio natural o antrópicas, cumpliendo con la finalidad de reducir el impacto negativo frente a la salud, el medio ambiente y el entorno que pueda ocasionar la ejecución de un evento masivo.
+            p En estos modelos de gestión del riesgo se establecen las fases de manera organizada para hacer una adecuada intervención de las amenazas ya sean de origen natural, socionatural o antrópicas, cumpliendo con la finalidad de reducir el impacto negativo frente a la salud, el medio ambiente y el entorno que pueda ocasionar la ejecución de un evento masivo.
         
         .cajon.bgr-tarjeta-1.p-4
           .row
             .col-12
-              p Esta gestión ocupa mayor relevancia cuando se trata del manejo de aglomeraciones por la responsabilidad que esto implica, es por ello por lo que, para la obtención de permisos para el desarrollo de eventos como ferias, conciertos, espectáculos musicales entre otros, el o los organizadores están obligados a documentar y disponer los recursos para el plan de emergencias y contingencias. 
+              p.mb-0 Esta gestión ocupa mayor relevancia cuando se trata del manejo de aglomeraciones por la responsabilidad que esto implica, es por ello que, para la obtención de permisos para el desarrollo de eventos como ferias, conciertos, espectáculos musicales entre otros, el o los organizadores están obligados a documentar y disponer los recursos para el plan de emergencias y contingencias. 
 
 
-    #t_2_1
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.1  Gestión del riesgo 
+    h3.mt-5 Gestión del riesgo 
 
     .row
-      p Son todas las actividades que le permitan a quien organiza un evento de cualquier tipo hacer una intervención preventiva para controlar aquellos riesgos que son mitigables y prevenibles, también es importante que se contemplen aquellos aspectos de origen naturales que si bien es cierto no podemos prevenir, pero si tenemos la obligación de hacer una adecuada gestión de recursos para poder atender las emergencias y posibles desastres derivados de su materialización.
+      p Son todas las actividades que le permiten a quien organiza un evento, hacer una intervención preventiva para controlar aquellos riesgos que son mitigables y prevenibles, también es importante que se contemplen aquellos aspectos de origen naturales que si bien es cierto no podemos prevenir, pero si tenemos la obligación de hacer una adecuada gestión de recursos para poder atender las emergencias y posibles desastres derivados de su materialización.
 
-      p Para ello se deben contemplar las siguientes fases: 
+      p Para aplicar la gestión del riesgo, se deben contemplar las siguientes fases: 
     
 
     .row.justify-content-center
@@ -42,7 +39,7 @@
           .row.justify-content-around.align-items-center.mt-5.mb-5
             .col-lg
               
-              p #[b Identificar amenazas:] establecer de acuerdo con el entorno amenazas naturales, socio naturales o antrópicas.
+              p #[b Identificar amenazas:] establecer de acuerdo con el entorno amenazas naturales, socionaturales o antrópicas. 
 
             .col-auto
               figure(data-aos="zoom-in")
@@ -59,7 +56,7 @@
           .row.justify-content-around.align-items-center.mt-5.mb-5
             .col-lg
    
-              p #[b Priorizar los escenarios de riesgo:] de acuerdo con la identificación y valoración del riesgo se establecen las prioridades a intervenir para poder documentar los procedimientos operativos normalizados, es decir, dejar por escrito que se hace y con que recursos, para intervenir incendios, evacuación, y medidas de atención prehospitalaria.
+              p #[b Priorizar los escenarios de riesgo:] de acuerdo con la identificación y valoración del riesgo, se establecen las prioridades a intervenir para poder documentar los procedimientos operativos normalizados, es decir, dejar por escrito que se hace y con qué recursos, para intervenir incendios, evacuación, y medidas de atención prehospitalaria.
 
             .col-auto
               figure(data-aos="zoom-in")
@@ -71,14 +68,9 @@
                 img(src='@/assets/curso/temas/tema2/img5.png', alt='').img125
             .col-lg
               
-              p #[b Desarrollo de los niveles de intervención:] en este aspecto se definen y se consiguen los recursos necesarios para atender las posibles emergencias, así como se establecen medidas de control en la fuente, relacionadas con infraestructura, condiciones locativas (pisos, techos, paredes), control en el medio, señalización de áreas y demarcación de zonas.  Con estos mecanismos de intervención buscamos mitigar los efectos negativos a la salud de los participantes, integridad de los bienes y medio ambiente.
+              p #[b Desarrollo de los niveles de intervención:] en este aspecto se definen y se consiguen los recursos necesarios para atender las posibles emergencias, así como se establecen medidas de control en la fuente, relacionadas con infraestructura, condiciones locativas (pisos, techos, paredes), control en el medio, señalización de áreas y demarcación de zonas.  Con estos mecanismos de intervención buscamos mitigar los efectos negativos a la salud de los participantes, integridad de los bienes y del medio ambiente.
 
-    separador
-
-    #t_2_2
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.2  Estructura organizacional de la gestión del riesgo
+    h3.mt-5 Estructura organizacional de la gestión del riesgo
 
     .row
       p Para la documentación del plan de emergencias y contingencias debemos tener claro la estructura organizacional con la que se cuenta para atender posibles sucesos desencadenados de la presentación de amenazas, dejando claridad en los roles y responsabilidades asignados.
@@ -89,17 +81,17 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         LineaTiempoD.color-primario
-          p(numero="1" titulo="Puesto de mando unificado") Director o delegado de más alto rango encargado de la organización del evento, jefe de emergencias, jefe de comunicaciones y jefe de apoyos internos y externos.
+          p(numero="1" titulo="Puesto de mando unificado (PMU)") Director o delegado de más alto rango encargado de la organización del evento, jefe de emergencias, jefe de comunicaciones y jefe de apoyos internos y externos.
 
           p(numero="2" titulo="Coordinador de logística") Se encarga del control de ingresos, salidas, acomodación, organización por sectores, medidas de contención o manejo de las áreas dentro de las instalaciones en las que se desarrolla la actividad.
 
-          p(numero="3" titulo="Jefe de brigada") Es la persona delegada para el control del evento, su plan general y específico de emergencias, al estar en el PMU, tiene contacto con el empresario u organizador, por lo tanto, será la máxima jerarquía para los brigadistas que son divididos en tres grupos: primeros auxilios, evacuación, rescate e incendio, cada una de estas tendrá un subjefe de brigada que deberá estar ubicado estratégicamente de acuerdo con el escenario donde se desarrollará el evento.
+          p(numero="3" titulo="Jefe de brigada") Es la persona delegada para el control del evento, su plan general y específico de emergencias, al estar en el PMU, tiene contacto con el empresario u organizador, por lo tanto, será la máxima jerarquía para los brigadistas que son divididos en tres grupos: primeros auxilios, evacuación,y rescate e incendio, cada una de estas tendrá un subjefe de brigada que deberá estar ubicado estratégicamente de acuerdo con el escenario donde se desarrollará el evento.
 
           p(numero="4" titulo="Subjefe de brigada de primeros auxilios") Esta persona será la responsable de verificar la existencia de los recursos necesarios y suficientes para la atención de emergencias en el peor de los escenarios, tales como puestos de atención, botiquines fijos y portátiles, ambulancias medicalizadas, férulas espinales largas, inmovilizadores, puntos de atención, entre otros elementos que se requieran.
 
           p(numero="5" titulo="Subjefe de brigada de evacuación") Será la persona responsable de verificar las rutas, señalización y salidas de emergencia, deberá verificar que todas las salidas cumplan con fácil acceso sin cerraduras, las vías de evacuación despejadas y a su vez socializa con los brigadistas los planes de evacuación, de acuerdo con los procedimientos operativos normalizados.
 
-          p(numero="6" titulo="Subjefe de brigada de incendio") Es el responsable de verificar la existencia de equipos de control y detección de incendios, y que los sistemas de monitoreo de las conexiones eléctricas sean adecuados, entre otros aspectos que puedan desencadenar conatos de incendio.
+          p(numero="6" titulo="Subjefe de brigada de incendio") Es el responsable de verificar la existencia de equipos de control y detección de incendios, y que los sistemas de monitoreo de las conexiones eléctricas sean adecuados, entre otros aspectos que puedan desencadenar cortos o incendios. 
 
           p(numero="7" titulo="Mantenimiento") Persona responsable de todo lo relacionado con el ambiente físico, conexiones eléctricas y armado de estructuras. Deberá garantizar el cumplimiento de las condiciones de seguridad para el desarrollo de la actividad programada.
 
@@ -120,14 +112,15 @@
 
       p Todos estos actores mencionados deberán tener conocimiento del plan de emergencia y contingencia del evento y de sus respectivos planes de intervención.
 
-      p Ahora bien, dentro de los cargos anteriores se habló de las brigadas, tenga en cuenta su concepto: es un grupo de personas capacitadas específicamente de acuerdo con el equipo que conforme primeros auxilios, evacuación, etc., como se observa en la figura que se presenta a continuación:
+      p Ahora bien, dentro de los cargos anteriores se habló de las brigadas, tenga en cuenta que estas son un grupo de personas capacitadas específicamente de acuerdo con el equipo que conforma primeros auxilios, evacuación, etc., como se observa en la figura que se presenta a continuación:
 
     .row
       .col-lg-1
       .col-lg-10
         .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 1.
-          span Brigada concepto y funciones
+          h5 Figura 1
+          br
+          span.fst-italic Brigada concepto y funciones
         figure
           img(src="@/assets/curso/temas/tema2/img7.png", alt="alt")
       .col-lg-1
@@ -135,12 +128,12 @@
     .cajon.bgr-tarjeta-1.p-4.mt-5
       .row
         .col-12
-          p El organizador podrá establecer esta función con contratistas, garantizando que el talento humano que asuma la responsabilidad conoce el plan de emergencias, las condiciones ambientales y aplica los procedimientos operativos normalizados de acuerdo con cada amenaza identificada y que pueden controlar las emergencias presentadas.
+          p El organizador podrá establecer esta función con contratistas, garantizando que el talento humano que asuma la responsabilidad conozca el plan de emergencias, las condiciones ambientales y aplique los procedimientos operativos normalizados de acuerdo con cada amenaza identificada y que pueden controlar las emergencias presentadas.
 
     .row
       .col-lg-1
       .col-lg-10
-        p.mt-5 Para interiorizar más acerca de las funciones de las brigadas se puede consultar a continuación el documento Cartilla de brigadista (Positiva compañía de seguros, 2019):    
+        p.mt-5 Para interiorizar más sobre las funciones de las brigadas se puede consultar a continuación el documento Cartilla de brigadista (Positiva compañía de seguros, 2019):      
 
         .tarjeta.color-primario.p-3.mb-5.mt-5
           .row.justify-content-around.align-items-center
@@ -149,8 +142,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 1
-                  p.text-small Cartilla de brigadista
+                  h5.mb-1 Anexo 1
+                  p.mb-0 Cartilla de brigadista
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_1_Cartilla_Brigadista.pdf')" target="_blank")
                     span Descargar
@@ -158,12 +151,7 @@
 
       .col-lg-1   
 
-    separador
-
-    #t_2_3
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.3  Estrategias de acción del riesgo
+    h3.mt-5 Estrategias de acción del riesgo
 
     .row.justify-content-around.align-items-center.mt-5.mb-5
 
@@ -181,7 +169,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            p.mb-0 #[b Preparación:] sistemas de alerta sonoras, vigilancia y monitoreo como detectores de humo, que se instalen en el lugar donde se ejecute el evento para poder supervisar las posibles amenazas. Se debe desarrollar ejercicios de simulacros que permitan evaluar la capacidad de respuesta ante situaciones que se puedan presentar de acuerdo con un contexto específico.
+            p.mb-0 #[b Preparación:] sistemas de alerta sonoras, vigilancia y monitoreo como detectores de humo, que se instalen en el lugar donde se ejecute el evento, para poder supervisar las posibles amenazas. Se deben desarrollar ejercicios de simulacros que permitan evaluar la capacidad de respuesta ante situaciones que se puedan presentar de acuerdo con un contexto específico.
 
 
       .col-lg-5
@@ -194,18 +182,13 @@
           p Con estos mecanismos se anticipa y se puede disminuir el riesgo de impacto negativo a la integridad de las personas, el medio ambiente y afectaciones al entorno, para ello se documenta el plan de emergencias y contingencias.
 
     
-    separador
-
-    #t_2_4
-
-    .titulo-segundo.color-acento-contenido.mt-5
-      h2 2.4  Concepto, propósito y ficha técnica
+    h3.mt-5 Concepto, propósito y ficha técnica
 
     .bloque-texto-f.bgr-tarjeta-3.pt-4.px-5.mb-5
       .bloque-texto-f__comillas
         i.fas.fa-quote-left
         i.fas.fa-quote-right
-      h4.text-regular.bloque-texto-f__texto El plan de gestión del riesgo es un “documento básico que se prepara en el nivel local vinculado a toda actividad específica que constituye aglomeración de público compleja y que genera riesgo para los asistentes, y para lo cual el organizador o empresario deberá definir los lineamientos generales para proyectar, presentar y cumplir su realización, y establecer el conjunto de medidas para garantizar la seguridad, salud y comodidad de los asistentes”
+      h4.text-regular.bloque-texto-f__texto El plan de gestión del riesgo es un “documento básico que se prepara a nivel local vinculado a toda actividad específica que constituye aglomeración de público compleja y que genera riesgo para los asistentes. El organizador o empresario deberá definir los lineamientos generales para proyectar, presentar y cumplir su realización, y establecer el conjunto de medidas para garantizar la seguridad, salud y comodidad de los asistentes” 
       .bloque-texto-f__autor.mb-3
         h3.mb-0 - (Hernández Marulanda & Zapata Cabrera, 2018).
 
@@ -232,7 +215,7 @@
               
           .col-md-6
 
-            p.color-text-3  #[b Vulnerabilidad:] evaluar las condiciones del lugar donde se va a desarrollar el evento, condiciones locativas, pisos, techos, paredes, capacidad del lugar para aglomeraciones, tipo de materiales (que tan resistentes serían al fuego), ubicación, determinar si las vías de acceso son fáciles y que el número de salidas disponibles sea acorde a las condiciones de la actividad y a la cantidad de personas a evacuar; es importante tener claridad del tipo de público a manejar, no es lo mismo la vulnerabilidad en un evento de niños que en un evento donde los asistentes sean adultos con consumo de alcohol  u otras sustancias que fácilmente alteren el comportamiento.
+            p.color-text-3  #[b Vulnerabilidad:] evaluar las condiciones del lugar donde se va a desarrollar el evento, condiciones locativas, pisos, techos, paredes, capacidad del lugar para aglomeraciones, tipo de materiales (que tan resistentes serían al fuego), ubicación, determinar si las vías de acceso son fáciles y que el número de salidas disponibles sea acorde a las condiciones de la actividad y a la cantidad de personas a evacuar; es importante tener claridad del tipo de público a manejar. No es lo mismo la vulnerabilidad en un evento de niños, que un evento donde los asistentes sean adultos, ellos están expuestos al consumo de alcohol  u otras sustancias, que fácilmente podrían alterar el comportamiento.
 
     .row.mt-5
       p El propósito de este documento no es tan solo la consecución de un permiso para el desarrollo de un evento, si bien es cierto es un requisito que se debe presentar ante la alcaldías municipales, locales o distritales, también debe ser entendido como la guía para atender emergencias y poder establecer las medidas de control de manera anticipada y que sea divulgado, conocido y entendido por el personal que organiza la actividad.
@@ -260,7 +243,7 @@
           li 
             .lista-ol--cuadro__vineta
               span 4
-            | Valoración del riesgo con la metodología análisis de riesgo por colores.
+            | Valoración del riesgo con la metodología y análisis de riesgo por colores.
 
           li 
             .lista-ol--cuadro__vineta
@@ -289,7 +272,7 @@
     .cajon.bgr-tarjeta-1.p-4.mt-5
           .row
             .col-12
-              p Descargue y revise Anexo 2_Ficha Técnica plan de emergencias y contingencias, para ver un formato y diligenciamiento de este documento, y el Anexo 3_Identificacion de análisis de vulnerabilidad y valoración del riesgo, formato necesario para el punto d) Valoración del riesgo con la metodología análisis de riesgo por colores.
+              p Para complementar la información descargue y revise:
 
 
     .row
@@ -303,10 +286,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 2
-                  p.text-small Ficha técnica plan de emergencias y contingencias
+                  h5.mb-1 Anexo 2
+                  p.mb-0 Ficha Técnica plan de emergencias y contingencias, para ver un formato y su diligenciamiento 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Ficha_tecnica.docx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Ficha_tecnica.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
 
@@ -317,8 +300,8 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 3
-                  p.text-small Identificación de análisis de vulnerabilidad y valoración del riesgo
+                  h5.mb-1 Anexo 3
+                  p.mb-0 Identificacion de análisis de vulnerabilidad y valoración del riesgo, formato necesario para la Valoración del riesgo con la metodología análisis de riesgo por colores (punto d del listado anterior).
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_ Identificacion.xlsx')" target="_blank")
                     span Descargar
@@ -339,47 +322,47 @@
           li 
             .lista-ol--cuadro__vineta
               span a
-            p.mb-0 #[b Anexo a.] plan de logística
+            p.mb-0 #[b Anexo a.] Plan de logística.
 
           li 
             .lista-ol--cuadro__vineta
               span b
-            p.mb-0 #[b Anexo b.] plan de protección médica y primeros auxilios
+            p.mb-0 #[b Anexo b.] Plan de protección médica y primeros auxilios.
 
           li 
             .lista-ol--cuadro__vineta
               span c
-            p.mb-0 #[b Anexo c.] plan de protección contra  incendios
+            p.mb-0 #[b Anexo c.] Plan de protección contra  incendios.
 
           li 
             .lista-ol--cuadro__vineta
               span d
-            p.mb-0 #[b Anexo d.] plan de evacuación y desarrollo de prácticas y simulacros
+            p.mb-0 #[b Anexo d.] Plan de evacuación y desarrollo de prácticas y simulacros.
 
           li 
             .lista-ol--cuadro__vineta
               span e
-            p.mb-0 #[b Anexo e.] plan para manejo de tercera edad, niños, discapacitados y atención temporal a afectados o refugio
+            p.mb-0 #[b Anexo e.] Plan para manejo de tercera edad, niños, discapacitados y atención temporal a afectados o refugio.
 
           li 
             .lista-ol--cuadro__vineta
               span f
-            p.mb-0 #[b Anexo f.] plan integración del lugar
+            p.mb-0 #[b Anexo f.] Plan integración del lugar.
           
           li 
             .lista-ol--cuadro__vineta
               span g
-            p.mb-0 #[b Anexo g.] plan de información pública
+            p.mb-0 #[b Anexo g.] Plan de información pública.
 
           li 
             .lista-ol--cuadro__vineta
               span h
-            p.mb-0 #[b Anexo h.] plan de manejo tránsito y afectación en vías o espacio público
+            p.mb-0 #[b Anexo h.] Plan de manejo tránsito y afectación en vías o espacio público.
 
           li 
             .lista-ol--cuadro__vineta
               span i
-            p.mb-0 #[b Anexo i.] plan de seguridad
+            p.mb-0 #[b Anexo i.] Plan de seguridad.
 
     .cajon.bgr-tarjeta-1.p-4.mt-5
       .row
@@ -396,10 +379,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 Anexo 4
-                  p.text-small Fichas técnicas planes
+                  h5.mb-1 Anexo 4
+                  p.mb-0 Fichas técnicas planes. La teoría allí contenida tiene los requisitos mínimos para la elaboración de cada plan, pero el desarrollo de estas debe ser adaptada a las características de cada evento. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Fichas.docx')" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_4_Fichas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
       .col-lg-1  

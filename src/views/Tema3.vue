@@ -17,7 +17,7 @@
             .lista-ol--cuadro__vineta
               span 1
             p.mb-0 #[b Recursos físicos:] son todos los equipos y elementos necesarios para atender las emergencias. Como mínimo se deberá contemplar los siguientes: 
-
+    p.mb-5 En cuanto a los recursos físicos, como mínimo se deberá contemplar los siguientes elementos: 
 
       .col-lg-5
         figure
@@ -72,9 +72,9 @@
           li 
             .lista-ol--cuadro__vineta
               span 2
-            p.mb-0 #[b Recursos humanos:] es el personal que cuenta con la capacitación, entrenamiento y conocimiento suficiente para activar los planes que se definen para atender emergencias. Como mínimo se deberá disponer de: 
+            p.mb-0 #[b Recursos humanos:] es el personal que cuenta con la capacitación, entrenamiento y conocimiento suficiente para activar los planes que se definen para atender emergencias.
 
-
+    p.mb-5 Como mínimo se deberá disponer de los siguientes Recursos humanos:  
     ImagenInfografica.color-secundario
       template(v-slot:imagen)
         figure
@@ -103,12 +103,12 @@
       
     .bloque-texto-tema1.color-secundario.p-4.mt-5
           .bloque-texto-tema1__texto
-            p Una vez claros los tipos de recursos necesarios, se puede ver a continuación las pautas básicas y un ejemplo sobre la práctica de los simulacros. Estos son ejercicios que buscan imitar una situación para evaluar la capacidad de respuesta que se tiene ante la presentación de un suceso no planeado que altere el funcionamiento o desarrollo de cualquier actividad.
+            p Una vez claros los tipos de recursos necesarios, se puede ver a continuación las pautas básicas y un ejemplo sobre la práctica de los simulacros. Estos son ejercicios que buscan simular una situación para evaluar la capacidad de respuesta que se tiene ante la presentación de un suceso no planeado que altere el funcionamiento o desarrollo de cualquier actividad.
      
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video  
+        
 
     .row
       .col-lg-1

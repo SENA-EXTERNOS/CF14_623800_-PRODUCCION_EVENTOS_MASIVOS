@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Plan de emergencias y contingencias de un evento',
     descripcionCurso:
-      'La estructuración de los planes de emergencia y contingencia de un evento nos permite determinar de manera anticipada los recursos necesarios para la atención de un suceso repentino que pueda afectar la integridad, los bienes y las condiciones ambientales en el desarrollo de un evento.',
+      'La estructuración de los planes de emergencia y contingencia de un evento, nos permite determinar de manera anticipada los recursos necesarios para la atención de un suceso repentino que pueda afectar la integridad, los bienes y las condiciones ambientales en el desarrollo de un evento.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -51,32 +51,6 @@ export default {
         numero: '2',
         titulo: 'Modelo de gestión del riesgo',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Gestión del riesgo',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Estructura organizacional de la gestión del riesgo',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Estrategias de acción del riesgo',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Concepto, propósito y ficha técnica',
-            hash: 't_2_4',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',

@@ -18,16 +18,16 @@
       .col-lg-7.mb-5.mb-lg-0
         .bloque-texto-tema1.color-primario.p-4
           .bloque-texto-tema1__texto
-            p Bienvenido a este componente formativo, en el cual, a través de explicaciones sencillas y de guías técnicas, se estudiará el funcionamiento de los planes de emergencia, instrumentos esenciales para hacer una preparación y correcta gestión de los recursos necesarios para la atención oportuna de los posibles sucesos que se puedan materializar durante la ejecución de un evento. 
+            p Apreciado Aprendiz, bienvenido a este componente formativo, donde se abordará de manera didáctica, explicaciones sencillas y de guías técnicas, el funcionamiento de los planes de emergencia, instrumentos esenciales para hacer una preparación y correcta gestión de los recursos necesarios para la atención oportuna de los posibles sucesos que se puedan materializar durante la ejecución de un evento. 
        
-        p Lo invitamos a ver el siguiente video, para que tenga un visión completa de lo que será esta experiencia de aprendizaje no sin antes desearle éxitos en su desarrollo. 
+        p Lo invitamos a ver el siguiente video, para que tenga una visión completa de lo que será esta experiencia de aprendizaje, no sin antes desearle éxitos en su desarrollo. 
 
       
 
     figure.mt-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video  
+        
 
 
         
