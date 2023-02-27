@@ -35,7 +35,7 @@
               figure
                 img(src='@/assets/curso/temas/tema1/img2.png', alt='Texto que describa la imagen')
 
-          p.mt-4 #[b Servicio Geológico Colombiano (S.G.C):]  se encarga de la investigación de la geociencia, subsuelo, identificando las amenazas derivadas de este para poder vigilar su comportamiento.
+          p.mt-4 #[b Servicio Geológico Colombiano (SGC):]  se encarga de la investigación de la geociencia, subsuelo, identificando las amenazas derivadas de este para poder vigilar su comportamiento.
 
       .col-sm-6.col-lg-4.mb-4.mb-lg-0
         .tarjeta--boton.color-primario.p-4
@@ -66,7 +66,7 @@
           .bloque-texto-tema1__texto
             p A nivel nacional, el Plan de Gestión del Riesgo de Desastres, es un instrumento de direccionamiento estratégico para la adopción de los planes de emergencia regionales y locales que serán responsabilidad de los gobernadores y alcaldes distritales o municipales según corresponda. 
 
-        p Los planes de emergencia regionales y locales son documentos con información más detallada, que permiten determinar las acciones de intervención y mitigación de riesgo. Cada uno de ellos tiene unas características específicas y dan cumplimiento de la ley 1523 de abril de 2012, que determina que los planes de emergencia deben contemplar tres aspectos importantes: conocimiento, reducción del riesgo y manejo de desastres. Teniendo en cuenta la aplicación del marco legal, los planes departamentales y locales se estructuran de la siguiente manera: 
+        p Los planes de emergencia regionales y locales son documentos con información más detallada, que permiten determinar las acciones de intervención y mitigación de riesgo. Cada uno de ellos tiene unas características específicas y dan cumplimiento de la Ley 1523 de abril de 2012, que determina que los planes de emergencia deben contemplar tres aspectos importantes: conocimiento, reducción del riesgo y manejo de desastres. Teniendo en cuenta la aplicación del marco legal, los planes departamentales y locales se estructuran de la siguiente manera: 
 
     .tarjeta.color-acento-contenido.p-4.p-md-5.mt-5
       .row.justify-content-around.align-items-center
