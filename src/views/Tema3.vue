@@ -10,14 +10,14 @@
     .row.justify-content-around.align-items-center.mt-5.mb-5
 
       .col-lg-7
-        p Para el desarrollo de los planes de emergencia y contingencia se deben disponer los recursos humanos, físicos, para la preparación de la emergencia, y suficientes existencias para la atención de sucesos de gran magnitud, para ello se debe realizar un inventario para evidenciar que se cuenta con los mecanismos suficientes. A continuación, se presentan los dos tipos de recursos requeridos: 
+        p.mb-5 Para el desarrollo de los planes de emergencia y contingencia se deben disponer los recursos humanos, físicos, para la preparación de la emergencia, y suficientes existencias para la atención de sucesos de gran magnitud, para ello se debe realizar un inventario para evidenciar que se cuenta con los mecanismos suficientes. A continuación, se presentan los dos tipos de recursos requeridos: 
 
         ol.lista-ol--cuadro
           li 
             .lista-ol--cuadro__vineta
               span 1
             p.mb-0 #[b Recursos físicos:] son todos los equipos y elementos necesarios para atender las emergencias. Como mínimo se deberá contemplar los siguientes: 
-    p.mb-5 En cuanto a los recursos físicos, como mínimo se deberá contemplar los siguientes elementos: 
+        p En cuanto a los recursos físicos, como mínimo se deberá contemplar los siguientes elementos: 
 
       .col-lg-5
         figure

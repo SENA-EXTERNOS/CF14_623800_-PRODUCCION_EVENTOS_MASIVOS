@@ -75,7 +75,7 @@
     .row
       p Para la documentación del plan de emergencias y contingencias debemos tener claro la estructura organizacional con la que se cuenta para atender posibles sucesos desencadenados de la presentación de amenazas, dejando claridad en los roles y responsabilidades asignados.
 
-      p A continuación, se muestra una posible estructura organizacional y la descripción de algunos roles específicos:
+      p.mb-5 A continuación, se muestra una posible estructura organizacional y la descripción de algunos roles específicos:
     
 
     .row.justify-content-center.mb-5
@@ -105,7 +105,7 @@
 
       .col-8.col-lg-6
         figure
-          img(src="@/assets/curso/temas/tema2/img6.png", alt="alt")
+          img(src="@/assets/curso/temas/tema2/1.svg", alt="alt")
 
     .row
       p Siempre se deberá garantizar la existencia de mecanismos de comunicación con los organismos de socorro, es importante que se cuente con el acompañamiento del cuerpo de bomberos, ambulancia medicalizada y la Policía, dejando claro que la existencia de estos organismos no anula la responsabilidad del organizador del evento, quien deberá garantizar los recursos físicos, el talento humano (brigadistas) e infraestructura para la atención de posibles emergencias que se puedan presentar.
@@ -122,7 +122,7 @@
           br
           span.fst-italic Brigada concepto y funciones
         figure
-          img(src="@/assets/curso/temas/tema2/img7.png", alt="alt")
+          img(src="@/assets/curso/temas/tema2/2.svg", alt="alt")
       .col-lg-1
 
     .cajon.bgr-tarjeta-1.p-4.mt-5
@@ -182,7 +182,7 @@
           p Con estos mecanismos se anticipa y se puede disminuir el riesgo de impacto negativo a la integridad de las personas, el medio ambiente y afectaciones al entorno, para ello se documenta el plan de emergencias y contingencias.
 
     
-    h3.mt-5 Concepto, propósito y ficha técnica
+    h3.my-5 Concepto, propósito y ficha técnica
 
     .bloque-texto-f.bgr-tarjeta-3.pt-4.px-5.mb-5
       .bloque-texto-f__comillas
