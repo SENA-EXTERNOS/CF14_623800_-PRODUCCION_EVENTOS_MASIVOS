@@ -28,7 +28,7 @@
     h3.mt-5 Gestión del riesgo 
 
     .row
-      p Son todas las actividades que le permiten a quien organiza un evento, hacer una intervención preventiva para controlar aquellos riesgos que son mitigables y prevenibles, también es importante que se contemplen aquellos aspectos de origen naturales que si bien es cierto no podemos prevenir, pero si tenemos la obligación de hacer una adecuada gestión de recursos para poder atender las emergencias y posibles desastres derivados de su materialización.
+      p Son todas las actividades que le permiten a quien organiza un evento, hacer una intervención preventiva para controlar aquellos riesgos que son mitigables y prevenibles, también es importante que se contemplen aquellos aspectos de origen naturales que si bien es cierto no podemos prevenir, pero sí tenemos la obligación de hacer una adecuada gestión de recursos para poder atender las emergencias y posibles desastres derivados de su materialización.
 
       p Para aplicar la gestión del riesgo, se deben contemplar las siguientes fases: 
     
@@ -85,7 +85,7 @@
 
           p(numero="2" titulo="Coordinador de logística") Se encarga del control de ingresos, salidas, acomodación, organización por sectores, medidas de contención o manejo de las áreas dentro de las instalaciones en las que se desarrolla la actividad.
 
-          p(numero="3" titulo="Jefe de brigada") Es la persona delegada para el control del evento, su plan general y específico de emergencias, al estar en el PMU, tiene contacto con el empresario u organizador, por lo tanto, será la máxima jerarquía para los brigadistas que son divididos en tres grupos: primeros auxilios, evacuación,y rescate e incendio, cada una de estas tendrá un subjefe de brigada que deberá estar ubicado estratégicamente de acuerdo con el escenario donde se desarrollará el evento.
+          p(numero="3" titulo="Jefe de brigada") Es la persona delegada para el control del evento, su plan general y específico de emergencias, al estar en el PMU, tiene contacto con el empresario u organizador, por lo tanto, será la máxima jerarquía para los brigadistas que son divididos en tres grupos: primeros auxilios, evacuación, y rescate e incendio, cada una de estas tendrá un subjefe de brigada que deberá estar ubicado estratégicamente de acuerdo con el escenario donde se desarrollará el evento.
 
           p(numero="4" titulo="Subjefe de brigada de primeros auxilios") Esta persona será la responsable de verificar la existencia de los recursos necesarios y suficientes para la atención de emergencias en el peor de los escenarios, tales como puestos de atención, botiquines fijos y portátiles, ambulancias medicalizadas, férulas espinales largas, inmovilizadores, puntos de atención, entre otros elementos que se requieran.
 
@@ -97,7 +97,7 @@
 
           p(numero="8" titulo="Comunicaciones") Será la única persona delegada para responder ante comunicaciones o ser emisor de mensajes ante los medios de comunicación, autoridades y demás partes interesadas en recibir información relacionada con el evento.
 
-          p(numero="9" titulo="Vigilancia") Se encarga de coordinar con la Policía cómo se va a manejar la seguridad, qué cantidad de personas deberán apoyar el control de la seguridad del evento, cómo se activará la contingencia en caso de la ocurrencia de un suceso que altere el normal desarrollo de la actividad desarrollada.
+          p(numero="9" titulo="Vigilancia") Se encarga de coordinar con la Policía cómo se va a manejar la seguridad, qué cantidad de personas deberán apoyar el control de la seguridad del evento, cómo se activará la contingencia en caso de la ocurrencia de un suceso que altere el normal desarrollo de la actividad en curso.
 
           p(numero="10" titulo="Coordinador de refugio") Es el encargado de organizar el área para atender a personas en situación de discapacidad, niños, embarazadas y adultos mayores que no tengan ninguna lesión y que necesiten una atención temporal mientras llega un familiar o persona responsable que se pueda hacer cargo.
 
@@ -205,7 +205,7 @@
 
           .col-md-6.mb-4.mb-md-0
 
-            p.color-text-3 #[b Identificación de amenazas:] naturales, socio naturales, antrópicas, por ejemplo: inundaciones, sismos, incendio, explosión, intoxicaciones por alimentos o por ingesta de alcohol, entre otras.
+            p.color-text-3 #[b Identificación de amenazas:] naturales, socionaturales, antrópicas, por ejemplo: inundaciones, sismos, incendio, explosión, intoxicaciones por alimentos o por ingesta de alcohol, entre otras.
               
       .py-3.py-md-4(titulo="Vulnerabilidad").bgr-tarjeta-4
         .row.justify-content-around.align-items-center.mt-5.mb-5
@@ -218,7 +218,7 @@
             p.color-text-3  #[b Vulnerabilidad:] evaluar las condiciones del lugar donde se va a desarrollar el evento, condiciones locativas, pisos, techos, paredes, capacidad del lugar para aglomeraciones, tipo de materiales (que tan resistentes serían al fuego), ubicación, determinar si las vías de acceso son fáciles y que el número de salidas disponibles sea acorde a las condiciones de la actividad y a la cantidad de personas a evacuar; es importante tener claridad del tipo de público a manejar. No es lo mismo la vulnerabilidad en un evento de niños, que un evento donde los asistentes sean adultos, ellos están expuestos al consumo de alcohol  u otras sustancias, que fácilmente podrían alterar el comportamiento.
 
     .row.mt-5
-      p El propósito de este documento no es tan solo la consecución de un permiso para el desarrollo de un evento, si bien es cierto es un requisito que se debe presentar ante la alcaldías municipales, locales o distritales, también debe ser entendido como la guía para atender emergencias y poder establecer las medidas de control de manera anticipada y que sea divulgado, conocido y entendido por el personal que organiza la actividad.
+      p El propósito de este documento no es tan solo la consecución de un permiso para el desarrollo de un evento, si bien es cierto es un requisito que se debe presentar ante las alcaldías municipales, locales o distritales, también debe ser entendido como la guía para atender emergencias y poder establecer las medidas de control de manera anticipada y que sea divulgado, conocido y entendido por el personal que organiza la actividad.
 
       .col-lg-6
 

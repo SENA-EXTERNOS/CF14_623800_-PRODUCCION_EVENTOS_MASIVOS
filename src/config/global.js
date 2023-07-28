@@ -211,12 +211,6 @@ export default {
         'Concepto (2021. <em>Contingencia</em>. Definición de Concepto de.',
       link: 'https://concepto.de/contingencia/#ixzz7ev2fixQ2',
     },
-    {
-      referencia:
-        'Dirección de Prevención y Atención de Emergencias (2009). <em>Guía para elaborar planes de emergencia y contingencias</em> (folleto). ',
-      link:
-        'https://bibliotecadigital.ccb.org.co/bitstream/handle/11520/14249/Gu%C3%ADa%20para%20elaborar%20planes%20de%20emergencia.pdf?sequence=1',
-    },
   ],
   creditos: {
     liderEquipo: [

@@ -11,7 +11,7 @@
       .col-lg-7.mb-5.mb-lg-0
         .bloque-texto-tema1.color-secundario.p-4
           .bloque-texto-tema1__texto
-            p En Colombia se cuenta con una política para la atención de emergencias y desastres, a partir de la cual se genera el Plan Nacional para la Gestión del Riesgo de Desastres, donde las diferentes entidades de orden nacional y departamental hacen la adopción del Marco SENDAI, Naciones Unidas (2015), en el cual se establecen las estrategias y metas para fortalecer la respuesta de las comunidades ante las amenazas de sus entornos. 
+            p En Colombia se cuenta con una política para la atención de emergencias y desastres, a partir de la cual se genera el Plan Nacional de Gestión del Riesgo de Desastres, donde las diferentes entidades de orden nacional y departamental hacen la adopción del Marco SENDAI, Naciones Unidas (2015), en el cual se establecen las estrategias y metas para fortalecer la respuesta de las comunidades ante las amenazas de sus entornos. 
             
         p Teniendo en cuenta esta adopción en Colombia, el Plan Nacional de Gestión del Riesgos de Desastres, se centra en el Cambio Climático como el principal factor desencadenante de riesgos a presentar,  de acuerdo con las condiciones geográficas de cada región; es por esto, que en este plan se integran los organismos nacionales y locales, para poder establecer los compromisos y acciones que permitan reducir el efecto negativo a las poblaciones por la materialización de los de riesgos de desastres, buscando reducir el nivel de vulnerabilidad y mejorar la respuesta ante posibles amenazas que se presenten en el territorio nacional. 
        
