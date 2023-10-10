@@ -301,7 +301,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1 Anexo 3
-                  p.mb-0 Identificacion de análisis de vulnerabilidad y valoración del riesgo, formato necesario para la Valoración del riesgo con la metodología análisis de riesgo por colores (punto d del listado anterior).
+                  p.mb-0 Identificación de análisis de vulnerabilidad y valoración del riesgo, formato necesario para la Valoración del riesgo con la metodología análisis de riesgo por colores (punto d del listado anterior).
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_3_ Identificacion.xlsx')" target="_blank")
                     span Descargar

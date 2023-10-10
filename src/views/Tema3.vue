@@ -96,7 +96,7 @@
         p.text-center Coordinadores de logística
 
       .tarjeta.color-primario.p-3(x="27%" y="72%" numero="6")       
-        p.text-center Organismo de socorro externo: Cruz Roja, Bomberos y Defensa Civil, de acuerdo con la disponibilidad del evento.
+        p.text-center Organismos de socorro externo: Cruz Roja, Bomberos y Defensa Civil, de acuerdo con la disponibilidad del evento.
 
       .tarjeta.color-primario.p-3(x="7%" y="70%" numero="7")       
         p.text-center Agentes de tránsito o encargados de la movilidad: aplican cuando el evento requiere cierres viales.
