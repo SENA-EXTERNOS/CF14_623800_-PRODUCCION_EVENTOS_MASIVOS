@@ -287,7 +287,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h5.mb-1 Anexo 2
-                  p.mb-0 Ficha Técnica plan de emergencias y contingencias, para ver un formato y su diligenciamiento 
+                  p.mb-0 Ficha técnica plan de emergencias y contingencias, para ver un formato y su diligenciamiento 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_2_Ficha_tecnica.pdf')" target="_blank")
                     span Descargar
